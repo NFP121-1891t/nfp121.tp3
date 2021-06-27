@@ -90,4 +90,9 @@ public class PileTest extends junit.framework.TestCase {
         assertFalse("égalité de deux piles ? ", p1.equals(p2));
 
     }
+
+    
+
 }
+
+
